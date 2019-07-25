@@ -1,0 +1,3 @@
+[0202/191903.415:ERROR:file_io_win.cc(179)] CreateFile C:\Users\宀抽様灞盶AppData\Local\ChromeCore\User Data\Crashpad\settings.dat: Access is denied. (0x5)
+[0202/191903.426:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0202/191903.430:ERROR:file_io_win.cc(179)] CreateFile C:\Users\宀抽様灞盶AppData\Local\ChromeCore\User Data\Crashpad\settings.dat: Access is denied. (0x5)

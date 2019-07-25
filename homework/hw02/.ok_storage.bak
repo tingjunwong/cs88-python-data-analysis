@@ -1,0 +1,5 @@
+'harmonic_mean-correct', (0, 70)
+'largest_factor-correct', (512, 70)
+'law_of_sines-correct', (1024, 70)
+'two_of_three-correct', (1536, 70)
+'speed_converter-correct', (2048, 70)

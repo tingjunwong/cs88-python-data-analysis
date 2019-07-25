@@ -1,0 +1,4 @@
+'Error-correct', (0, 70)
+'ZeroDivisionError-correct', (512, 70)
+'SyntaxError-correct', (1024, 70)
+'Person-correct', (1536, 70)
